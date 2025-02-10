@@ -324,6 +324,7 @@ def process_task(
     for iter_idx in range(iter_num):  # Iterate to narrow down the time
         image, used_frame_indices = create_frame_grid(
             video_path, center_time, interval, grid_size)
+       
         print(used_frame_indices)
         if iter_idx == 0:
             cv2.imwrite(
@@ -347,6 +348,8 @@ def process_task(
             center_time = selected_frame_index / fps  # Convert frame index back to time
             print(
                 f"Selected frame index: {selected_frame_index}, sample time duration: {interval}")
+            cv2.imshow("grid_image", image)
+            cv2.waitKey(0)
             interval /= 2
         if int(interval * fps) == 0:
             break
@@ -393,16 +396,16 @@ def convert_video(video_file_path: str, action: str, credentials, grid_size: int
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--credentials", help="credentials file")
+parser.add_argument("--credentials", help="credentials file", default = "auth.env")
 parser.add_argument("--grid", help="grid size", default=3)
 parser.add_argument(
     "--video_path",
     help="video path",
-    default="sample_video/sample.mp4")
+    default="sample_video/sample2.mp4")
 parser.add_argument(
     "--action",
     help="action label",
-    default="grabbing towards the can")
+    default="grabbing towards a blue bottle")
 pargs, unknown = parser.parse_known_args()
 credentials = dotenv.dotenv_values(pargs.credentials)
 required_keys = ["OPENAI_API_KEY", "AZURE_OPENAI_API_KEY", "AZURE_OPENAI_ENDPOINT"]
