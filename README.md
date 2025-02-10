@@ -1,5 +1,5 @@
 # VLM-Video-Action-Localization
-This repository provides a sample code of a paper, [Open-vocabulary Temporal Action Localization using VLMs](https://arxiv.org/abs/2408.17422). This paper was authored by the [Applied Robotics Research](https://www.microsoft.com/en-us/research/group/applied-robotics-research/) team.
+This folder provides a sample code of a paper, [Open-vocabulary Temporal Action Localization using VLMs](https://arxiv.org/abs/2408.17422). This paper was authored by the [Applied Robotics Research](https://www.microsoft.com/en-us/research/group/applied-robotics-research/) team.
 
 ### Overview of the pipeline:
 ![Temporal PIVOT pipeline](./src/pipeline.jpg)
