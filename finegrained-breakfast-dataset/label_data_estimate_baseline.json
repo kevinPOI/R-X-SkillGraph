@@ -1,0 +1,4612 @@
+[
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                23
+            ],
+            [
+                24,
+                48
+            ],
+            [
+                49,
+                86
+            ],
+            [
+                87,
+                112
+            ],
+            [
+                113,
+                122
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_1_2162-2284.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.82,
+            "3. Bringing with the right hand": 1.64,
+            "4. Putting on with the right hand": 2.46,
+            "5. Release from the right hand": 3.28
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.82,
+            "2. Picking with the right hand": 1.64,
+            "3. Bringing with the right hand": 2.46,
+            "4. Putting on with the right hand": 3.28,
+            "5. Release from the right hand": 4.1
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                37
+            ],
+            [
+                38,
+                106
+            ],
+            [
+                107,
+                135
+            ],
+            [
+                136,
+                147
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_1_2306-2453.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.9866666666666667,
+            "3. Bringing with the right hand": 1.9733333333333334,
+            "4. Putting on with the right hand": 2.96,
+            "5. Release from the right hand": 3.9466666666666668
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.9866666666666667,
+            "2. Picking with the right hand": 1.9733333333333334,
+            "3. Bringing with the right hand": 2.96,
+            "4. Putting on with the right hand": 3.9466666666666668,
+            "5. Release from the right hand": 4.933333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                21
+            ],
+            [
+                22,
+                48
+            ],
+            [
+                49,
+                60
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_1_2487-2547.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5083333333333333,
+            "3. Putting on with the right hand": 1.0166666666666666,
+            "4. Release from the right hand": 1.525
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5083333333333333,
+            "2. Picking with the right hand": 1.0166666666666666,
+            "3. Putting on with the right hand": 1.525,
+            "4. Release from the right hand": 2.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                14
+            ],
+            [
+                15,
+                39
+            ],
+            [
+                40,
+                103
+            ],
+            [
+                104,
+                142
+            ],
+            [
+                143,
+                152
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_1_2842-2994.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.02,
+            "3. Holding with the right hand": 2.04,
+            "4. Putting on with the right hand": 3.06,
+            "5. Release from the right hand": 4.08
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.02,
+            "2. Picking with the right hand": 2.04,
+            "3. Holding with the right hand": 3.06,
+            "4. Putting on with the right hand": 4.08,
+            "5. Release from the right hand": 5.1
+        }
+    },
+    {
+        "action": [
+            "Hand over from the left hand to the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                13
+            ],
+            [
+                14,
+                41
+            ],
+            [
+                42,
+                53
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_1_3511-3564.mp4",
+        "start_times": {
+            "1. Hand over from the left hand to the right hand": 0.0,
+            "2. Holding with the right hand": 0.6,
+            "3. Release from the right hand": 1.2
+        },
+        "completed_times": {
+            "1. Hand over from the left hand to the right hand": 0.6,
+            "2. Holding with the right hand": 1.2,
+            "3. Release from the right hand": 1.7999999999999998
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Cracking an egg with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                38
+            ],
+            [
+                39,
+                163
+            ],
+            [
+                164,
+                191
+            ],
+            [
+                192,
+                213
+            ],
+            [
+                214,
+                224
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_1895-2119.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Cracking an egg with the right hand": 1.25,
+            "3. Pouring with the right hand": 2.5,
+            "4. Holding with the right hand": 3.75,
+            "5. Putting on with the right hand": 5.0,
+            "6. Release from the right hand": 6.25
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.25,
+            "2. Cracking an egg with the right hand": 2.5,
+            "3. Pouring with the right hand": 3.75,
+            "4. Holding with the right hand": 5.0,
+            "5. Putting on with the right hand": 6.25,
+            "6. Release from the right hand": 7.5
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Cracking an egg with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                57
+            ],
+            [
+                58,
+                168
+            ],
+            [
+                169,
+                179
+            ],
+            [
+                180,
+                202
+            ],
+            [
+                203,
+                212
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_2287-2499.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Cracking an egg with the right hand": 1.1833333333333333,
+            "3. Pouring with the right hand": 2.3666666666666667,
+            "4. Holding with the right hand": 3.55,
+            "5. Putting on with the right hand": 4.733333333333333,
+            "6. Release from the right hand": 5.916666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1833333333333333,
+            "2. Cracking an egg with the right hand": 2.3666666666666667,
+            "3. Pouring with the right hand": 3.55,
+            "4. Holding with the right hand": 4.733333333333333,
+            "5. Putting on with the right hand": 5.916666666666667,
+            "6. Release from the right hand": 7.1
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                32
+            ],
+            [
+                33,
+                48
+            ],
+            [
+                49,
+                59
+            ],
+            [
+                60,
+                72
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_2525-2597.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.48666666666666664,
+            "3. Starting rotary motion with the right hand while it is restrained.": 0.9733333333333333,
+            "4. Putting on with the right hand": 1.46,
+            "5. Release from the right hand": 1.9466666666666665
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.48666666666666664,
+            "2. Picking with the right hand": 0.9733333333333333,
+            "3. Starting rotary motion with the right hand while it is restrained.": 1.46,
+            "4. Putting on with the right hand": 1.9466666666666665,
+            "5. Release from the right hand": 2.433333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                21
+            ],
+            [
+                22,
+                53
+            ],
+            [
+                54,
+                116
+            ],
+            [
+                117,
+                140
+            ],
+            [
+                141,
+                152
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_2953-3105.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.02,
+            "3. Rotary motion with the right hand until it cannot be rotated": 2.04,
+            "4. Putting on with the right hand": 3.06,
+            "5. Release from the right hand": 4.08
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.02,
+            "2. Picking with the right hand": 2.04,
+            "3. Rotary motion with the right hand until it cannot be rotated": 3.06,
+            "4. Putting on with the right hand": 4.08,
+            "5. Release from the right hand": 5.1
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                39
+            ],
+            [
+                40,
+                51
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_3324-3375.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Putting on with the right hand": 0.5777777777777778,
+            "3. Release from the right hand": 1.1555555555555557
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5777777777777778,
+            "2. Putting on with the right hand": 1.1555555555555557,
+            "3. Release from the right hand": 1.7333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                15
+            ],
+            [
+                16,
+                40
+            ],
+            [
+                41,
+                68
+            ],
+            [
+                69,
+                78
+            ]
+        ],
+        "video_path": "original_videos\\subject_1_gopro_seg_2_3467-3545.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.6583333333333333,
+            "3. Putting on with the right hand": 1.3166666666666667,
+            "4. Release from the right hand": 1.975
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6583333333333333,
+            "2. Picking with the right hand": 1.3166666666666667,
+            "3. Putting on with the right hand": 1.975,
+            "4. Release from the right hand": 2.6333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Holding with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                29
+            ],
+            [
+                30,
+                70
+            ],
+            [
+                71,
+                92
+            ],
+            [
+                93,
+                103
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_1_1877-1980.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.6933333333333334,
+            "3. Holding with the right hand": 1.3866666666666667,
+            "4. Rotary motion with the right hand until it cannot be rotated": 2.08,
+            "5. Release from the right hand": 2.7733333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6933333333333334,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.3866666666666667,
+            "3. Holding with the right hand": 2.08,
+            "4. Rotary motion with the right hand until it cannot be rotated": 2.7733333333333334,
+            "5. Release from the right hand": 3.466666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                22
+            ],
+            [
+                23,
+                28
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_1_1997-2025.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.32222222222222224,
+            "3. Release from the right hand": 0.6444444444444445
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.32222222222222224,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.6444444444444445,
+            "3. Release from the right hand": 0.9666666666666668
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                17
+            ],
+            [
+                18,
+                24
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_1_2028-2052.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.2777777777777778,
+            "3. Release from the right hand": 0.5555555555555556
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.2777777777777778,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.5555555555555556,
+            "3. Release from the right hand": 0.8333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                22
+            ],
+            [
+                23,
+                117
+            ],
+            [
+                118,
+                131
+            ],
+            [
+                132,
+                140
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_2_2391-2531.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.175,
+            "3. Putting on with the right hand": 2.35,
+            "4. Release from the right hand": 3.5250000000000004
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.175,
+            "2. Picking with the right hand": 2.35,
+            "3. Putting on with the right hand": 3.5250000000000004,
+            "4. Release from the right hand": 4.7
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                88
+            ],
+            [
+                89,
+                100
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_2_2532-2632.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 1.1222222222222222,
+            "3. Release from the right hand": 2.2444444444444445
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1222222222222222,
+            "2. Holding with the right hand": 2.2444444444444445,
+            "3. Release from the right hand": 3.3666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                22
+            ],
+            [
+                23,
+                248
+            ],
+            [
+                249,
+                268
+            ],
+            [
+                269,
+                279
+            ],
+            [
+                280,
+                289
+            ]
+        ],
+        "video_path": "original_videos\\subject_10_gopro_seg_2_2826-3115.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.611111111111111,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 3.222222222222222,
+            "4. Striking something with the right hand or an object held in the right hand.": 4.833333333333333,
+            "5. Putting on with the right hand": 6.444444444444444,
+            "6. Release from the right hand": 8.055555555555555
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.611111111111111,
+            "2. Picking with the right hand": 3.222222222222222,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 4.833333333333333,
+            "4. Striking something with the right hand or an object held in the right hand.": 6.444444444444444,
+            "5. Putting on with the right hand": 8.055555555555555,
+            "6. Release from the right hand": 9.666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                13
+            ],
+            [
+                14,
+                22
+            ],
+            [
+                23,
+                34
+            ],
+            [
+                35,
+                53
+            ],
+            [
+                54,
+                68
+            ],
+            [
+                69,
+                132
+            ],
+            [
+                133,
+                194
+            ],
+            [
+                195,
+                209
+            ],
+            [
+                210,
+                218
+            ],
+            [
+                219,
+                234
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_1_12864-13098.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.7833333333333333,
+            "3. Bringing with the right hand": 1.5666666666666667,
+            "4. Striking something with the right hand or an object held in the right hand.": 2.35,
+            "5. Bringing with the right hand": 3.1333333333333333,
+            "6. Pouring with the right hand": 3.9166666666666665,
+            "7. Holding with the right hand": 4.7,
+            "8. Bringing with the right hand": 5.483333333333333,
+            "9. Putting on with the right hand": 6.266666666666667,
+            "10. Release from the right hand": 7.05
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7833333333333333,
+            "2. Picking with the right hand": 1.5666666666666667,
+            "3. Bringing with the right hand": 2.35,
+            "4. Striking something with the right hand or an object held in the right hand.": 3.1333333333333333,
+            "5. Bringing with the right hand": 3.9166666666666665,
+            "6. Pouring with the right hand": 4.7,
+            "7. Holding with the right hand": 5.483333333333333,
+            "8. Bringing with the right hand": 6.266666666666667,
+            "9. Putting on with the right hand": 7.05,
+            "10. Release from the right hand": 7.833333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Picking with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                13
+            ],
+            [
+                14,
+                23
+            ],
+            [
+                24,
+                35
+            ],
+            [
+                36,
+                85
+            ],
+            [
+                86,
+                121
+            ],
+            [
+                122,
+                172
+            ],
+            [
+                173,
+                190
+            ],
+            [
+                191,
+                201
+            ],
+            [
+                202,
+                207
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_1_13099-13306.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.7703703703703704,
+            "3. Striking something with the right hand or an object held in the right hand.": 1.5407407407407407,
+            "4. Picking with the right hand": 2.311111111111111,
+            "5. Pouring with the right hand": 3.0814814814814815,
+            "6. Holding with the right hand": 3.851851851851852,
+            "7. Bringing with the right hand": 4.622222222222222,
+            "8. Putting on with the right hand": 5.392592592592592,
+            "9. Release from the right hand": 6.162962962962963
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7703703703703704,
+            "2. Picking with the right hand": 1.5407407407407407,
+            "3. Striking something with the right hand or an object held in the right hand.": 2.311111111111111,
+            "4. Picking with the right hand": 3.0814814814814815,
+            "5. Pouring with the right hand": 3.851851851851852,
+            "6. Holding with the right hand": 4.622222222222222,
+            "7. Bringing with the right hand": 5.392592592592592,
+            "8. Putting on with the right hand": 6.162962962962963,
+            "9. Release from the right hand": 6.933333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                21
+            ],
+            [
+                22,
+                27
+            ],
+            [
+                28,
+                38
+            ],
+            [
+                39,
+                70
+            ],
+            [
+                71,
+                91
+            ],
+            [
+                92,
+                130
+            ],
+            [
+                131,
+                160
+            ],
+            [
+                161,
+                171
+            ],
+            [
+                172,
+                184
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_1_13307-13491.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.6166666666666667,
+            "3. Bringing with the right hand": 1.2333333333333334,
+            "4. Striking something with the right hand or an object held in the right hand.": 1.85,
+            "5. Bringing with the right hand": 2.466666666666667,
+            "6. Pouring with the right hand": 3.0833333333333335,
+            "7. Holding with the right hand": 3.7,
+            "8. Bringing with the right hand": 4.316666666666666,
+            "9. Putting on with the right hand": 4.933333333333334,
+            "10. Release from the right hand": 5.550000000000001
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6166666666666667,
+            "2. Picking with the right hand": 1.2333333333333334,
+            "3. Bringing with the right hand": 1.85,
+            "4. Striking something with the right hand or an object held in the right hand.": 2.466666666666667,
+            "5. Bringing with the right hand": 3.0833333333333335,
+            "6. Pouring with the right hand": 3.7,
+            "7. Holding with the right hand": 4.316666666666666,
+            "8. Bringing with the right hand": 4.933333333333334,
+            "9. Putting on with the right hand": 5.550000000000001,
+            "10. Release from the right hand": 6.166666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Moving an object held in the right hand in and out of a narrow space.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                40
+            ],
+            [
+                41,
+                68
+            ],
+            [
+                69,
+                114
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_444-558.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Moving an object held in the right hand in and out of a narrow space.": 1.277777777777778,
+            "3. Release from the right hand": 2.555555555555556
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.277777777777778,
+            "2. Moving an object held in the right hand in and out of a narrow space.": 2.555555555555556,
+            "3. Release from the right hand": 3.833333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                36
+            ],
+            [
+                37,
+                94
+            ],
+            [
+                95,
+                107
+            ],
+            [
+                108,
+                112
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_786-898.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.7533333333333333,
+            "3. Bringing with the right hand": 1.5066666666666666,
+            "4. Putting on with the right hand": 2.26,
+            "5. Release from the right hand": 3.013333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7533333333333333,
+            "2. Picking with the right hand": 1.5066666666666666,
+            "3. Bringing with the right hand": 2.26,
+            "4. Putting on with the right hand": 3.013333333333333,
+            "5. Release from the right hand": 3.7666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                18
+            ],
+            [
+                19,
+                32
+            ],
+            [
+                33,
+                44
+            ],
+            [
+                45,
+                51
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_903-954.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.3466666666666667,
+            "3. Picking with the right hand": 0.6933333333333334,
+            "4. Putting on with the right hand": 1.04,
+            "5. Release from the right hand": 1.3866666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.3466666666666667,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.6933333333333334,
+            "3. Picking with the right hand": 1.04,
+            "4. Putting on with the right hand": 1.3866666666666667,
+            "5. Release from the right hand": 1.7333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                9
+            ],
+            [
+                10,
+                20
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_955-975.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Release from the right hand": 0.35
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.35,
+            "2. Release from the right hand": 0.7
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                19
+            ],
+            [
+                20,
+                54
+            ],
+            [
+                55,
+                147
+            ],
+            [
+                148,
+                160
+            ],
+            [
+                161,
+                172
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_984-1156.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.1533333333333333,
+            "3. Holding with the right hand": 2.3066666666666666,
+            "4. Putting on with the right hand": 3.46,
+            "5. Release from the right hand": 4.613333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1533333333333333,
+            "2. Picking with the right hand": 2.3066666666666666,
+            "3. Holding with the right hand": 3.46,
+            "4. Putting on with the right hand": 4.613333333333333,
+            "5. Release from the right hand": 5.766666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                7
+            ],
+            [
+                8,
+                25
+            ],
+            [
+                26,
+                51
+            ],
+            [
+                52,
+                98
+            ],
+            [
+                99,
+                110
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_1157-1267.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.74,
+            "3. Putting on with the right hand": 1.48,
+            "4. Rotary motion with the right hand until it cannot be rotated": 2.2199999999999998,
+            "5. Release from the right hand": 2.96
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.74,
+            "2. Picking with the right hand": 1.48,
+            "3. Putting on with the right hand": 2.2199999999999998,
+            "4. Rotary motion with the right hand until it cannot be rotated": 2.96,
+            "5. Release from the right hand": 3.7
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                30
+            ],
+            [
+                31,
+                58
+            ],
+            [
+                59,
+                83
+            ],
+            [
+                84,
+                93
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_1268-1361.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.6266666666666667,
+            "3. Bringing with the right hand": 1.2533333333333334,
+            "4. Putting on with the right hand": 1.8800000000000001,
+            "5. Release from the right hand": 2.506666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6266666666666667,
+            "2. Picking with the right hand": 1.2533333333333334,
+            "3. Bringing with the right hand": 1.8800000000000001,
+            "4. Putting on with the right hand": 2.506666666666667,
+            "5. Release from the right hand": 3.1333333333333337
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                31
+            ],
+            [
+                32,
+                195
+            ],
+            [
+                196,
+                214
+            ],
+            [
+                215,
+                226
+            ]
+        ],
+        "video_path": "original_videos\\subject_11_gopro_seg_2_1377-1603.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.5133333333333332,
+            "3. Bringing with the right hand": 3.0266666666666664,
+            "4. Putting on with the right hand": 4.539999999999999,
+            "5. Release from the right hand": 6.053333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.5133333333333332,
+            "2. Picking with the right hand": 3.0266666666666664,
+            "3. Bringing with the right hand": 4.539999999999999,
+            "4. Putting on with the right hand": 6.053333333333333,
+            "5. Release from the right hand": 7.566666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Cracking an egg with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                68
+            ],
+            [
+                69,
+                94
+            ],
+            [
+                95,
+                105
+            ],
+            [
+                106,
+                120
+            ],
+            [
+                121,
+                216
+            ],
+            [
+                217,
+                313
+            ],
+            [
+                314,
+                332
+            ],
+            [
+                333,
+                343
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_1_7253-7596.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 1.2740740740740741,
+            "3. Striking something with the right hand or an object held in the right hand.": 2.5481481481481483,
+            "4. Cracking an egg with the right hand": 3.8222222222222224,
+            "5. Pouring with the right hand": 5.0962962962962965,
+            "6. Holding with the right hand": 6.37037037037037,
+            "7. Bringing with the right hand": 7.644444444444445,
+            "8. Putting on with the right hand": 8.91851851851852,
+            "9. Release from the right hand": 10.192592592592593
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.2740740740740741,
+            "2. Holding with the right hand": 2.5481481481481483,
+            "3. Striking something with the right hand or an object held in the right hand.": 3.8222222222222224,
+            "4. Cracking an egg with the right hand": 5.0962962962962965,
+            "5. Pouring with the right hand": 6.37037037037037,
+            "6. Holding with the right hand": 7.644444444444445,
+            "7. Bringing with the right hand": 8.91851851851852,
+            "8. Putting on with the right hand": 10.192592592592593,
+            "9. Release from the right hand": 11.466666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                14
+            ],
+            [
+                15,
+                143
+            ],
+            [
+                144,
+                203
+            ],
+            [
+                204,
+                435
+            ],
+            [
+                436,
+                443
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_12602-13045.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 2.96,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 5.92,
+            "4. Holding with the right hand": 8.879999999999999,
+            "5. Release from the right hand": 11.84
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 2.96,
+            "2. Holding with the right hand": 5.92,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 8.879999999999999,
+            "4. Holding with the right hand": 11.84,
+            "5. Release from the right hand": 14.8
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                40
+            ],
+            [
+                41,
+                51
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_13923-13974.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.5777777777777778,
+            "3. Release from the right hand": 1.1555555555555557
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5777777777777778,
+            "2. Holding with the right hand": 1.1555555555555557,
+            "3. Release from the right hand": 1.7333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                27
+            ],
+            [
+                28,
+                90
+            ],
+            [
+                91,
+                97
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_13975-14072.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.8166666666666667,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 1.6333333333333333,
+            "4. Release from the right hand": 2.45
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.8166666666666667,
+            "2. Picking with the right hand": 1.6333333333333333,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 2.45,
+            "4. Release from the right hand": 3.2666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                3
+            ],
+            [
+                4,
+                50
+            ],
+            [
+                51,
+                60
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_14073-14133.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.6777777777777777,
+            "3. Release from the right hand": 1.3555555555555554
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6777777777777777,
+            "2. Holding with the right hand": 1.3555555555555554,
+            "3. Release from the right hand": 2.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                66
+            ],
+            [
+                67,
+                77
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_14134-14211.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.8666666666666667,
+            "3. Release from the right hand": 1.7333333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.8666666666666667,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.7333333333333334,
+            "3. Release from the right hand": 2.6
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                9
+            ],
+            [
+                10,
+                46
+            ],
+            [
+                47,
+                56
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_14257-14313.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.6333333333333333,
+            "3. Release from the right hand": 1.2666666666666666
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6333333333333333,
+            "2. Rotary motion with the right hand until it cannot be rotated": 1.2666666666666666,
+            "3. Release from the right hand": 1.9
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                38
+            ],
+            [
+                39,
+                48
+            ]
+        ],
+        "video_path": "original_videos\\subject_12_gopro_seg_2_14316-14364.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.5444444444444444,
+            "3. Release from the right hand": 1.0888888888888888
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5444444444444444,
+            "2. Holding with the right hand": 1.0888888888888888,
+            "3. Release from the right hand": 1.6333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                14
+            ],
+            [
+                15,
+                25
+            ]
+        ],
+        "video_path": "original_videos\\subject_13_gopro_seg_1_14430-14455.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.2888888888888889,
+            "3. Release from the right hand": 0.5777777777777778
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.2888888888888889,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.5777777777777778,
+            "3. Release from the right hand": 0.8666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                34
+            ],
+            [
+                35,
+                43
+            ],
+            [
+                44,
+                101
+            ]
+        ],
+        "video_path": "original_videos\\subject_13_gopro_seg_1_14497-14598.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.1333333333333333,
+            "3. Release from the right hand": 2.2666666666666666
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1333333333333333,
+            "2. Picking with the right hand": 2.2666666666666666,
+            "3. Release from the right hand": 3.4
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                43
+            ],
+            [
+                44,
+                57
+            ]
+        ],
+        "video_path": "original_videos\\subject_13_gopro_seg_1_15750-15807.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Putting on with the right hand": 0.6444444444444445,
+            "3. Release from the right hand": 1.288888888888889
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6444444444444445,
+            "2. Putting on with the right hand": 1.288888888888889,
+            "3. Release from the right hand": 1.9333333333333336
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                62
+            ],
+            [
+                63,
+                88
+            ],
+            [
+                89,
+                108
+            ],
+            [
+                109,
+                121
+            ]
+        ],
+        "video_path": "original_videos\\subject_2_d_gopro_seg_1_2352-2473.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.8133333333333332,
+            "3. Holding with the right hand": 1.6266666666666665,
+            "4. Putting on with the right hand": 2.4399999999999995,
+            "5. Release from the right hand": 3.253333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.8133333333333332,
+            "2. Picking with the right hand": 1.6266666666666665,
+            "3. Holding with the right hand": 2.4399999999999995,
+            "4. Putting on with the right hand": 3.253333333333333,
+            "5. Release from the right hand": 4.066666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                54
+            ],
+            [
+                55,
+                383
+            ],
+            [
+                384,
+                424
+            ],
+            [
+                425,
+                433
+            ]
+        ],
+        "video_path": "original_videos\\subject_2_d_gopro_seg_1_2474-2907.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 2.8933333333333335,
+            "3. Bringing with the right hand": 5.786666666666667,
+            "4. Putting on with the right hand": 8.68,
+            "5. Release from the right hand": 11.573333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 2.8933333333333335,
+            "2. Picking with the right hand": 5.786666666666667,
+            "3. Bringing with the right hand": 8.68,
+            "4. Putting on with the right hand": 11.573333333333334,
+            "5. Release from the right hand": 14.466666666666669
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Cracking an egg with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                40
+            ],
+            [
+                41,
+                63
+            ],
+            [
+                64,
+                98
+            ],
+            [
+                99,
+                139
+            ],
+            [
+                140,
+                158
+            ],
+            [
+                159,
+                221
+            ],
+            [
+                222,
+                239
+            ],
+            [
+                240,
+                272
+            ],
+            [
+                273,
+                281
+            ],
+            [
+                282,
+                291
+            ]
+        ],
+        "video_path": "original_videos\\subject_2_d_gopro_seg_1_3258-3549.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.9733333333333333,
+            "3. Holding with the right hand": 1.9466666666666665,
+            "4. Striking something with the right hand or an object held in the right hand.": 2.92,
+            "5. Cracking an egg with the right hand": 3.893333333333333,
+            "6. Pouring with the right hand": 4.866666666666666,
+            "7. Holding with the right hand": 5.84,
+            "8. Bringing with the right hand": 6.813333333333333,
+            "9. Putting on with the right hand": 7.786666666666666,
+            "10. Release from the right hand": 8.76
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.9733333333333333,
+            "2. Picking with the right hand": 1.9466666666666665,
+            "3. Holding with the right hand": 2.92,
+            "4. Striking something with the right hand or an object held in the right hand.": 3.893333333333333,
+            "5. Cracking an egg with the right hand": 4.866666666666666,
+            "6. Pouring with the right hand": 5.84,
+            "7. Holding with the right hand": 6.813333333333333,
+            "8. Bringing with the right hand": 7.786666666666666,
+            "9. Putting on with the right hand": 8.76,
+            "10. Release from the right hand": 9.733333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Pouring with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                52
+            ],
+            [
+                53,
+                78
+            ],
+            [
+                79,
+                168
+            ],
+            [
+                169,
+                234
+            ],
+            [
+                235,
+                386
+            ],
+            [
+                387,
+                421
+            ],
+            [
+                422,
+                454
+            ],
+            [
+                455,
+                497
+            ],
+            [
+                498,
+                507
+            ]
+        ],
+        "video_path": "original_videos\\subject_2_d_gopro_seg_2_3852-4359.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.8814814814814815,
+            "3. Bringing with the right hand": 3.762962962962963,
+            "4. Pouring with the right hand": 5.644444444444445,
+            "5. Holding with the right hand": 7.525925925925926,
+            "6. Pouring with the right hand": 9.407407407407408,
+            "7. Bringing with the right hand": 11.28888888888889,
+            "8. Putting on with the right hand": 13.170370370370371,
+            "9. Release from the right hand": 15.051851851851852
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.8814814814814815,
+            "2. Picking with the right hand": 3.762962962962963,
+            "3. Bringing with the right hand": 5.644444444444445,
+            "4. Pouring with the right hand": 7.525925925925926,
+            "5. Holding with the right hand": 9.407407407407408,
+            "6. Pouring with the right hand": 11.28888888888889,
+            "7. Bringing with the right hand": 13.170370370370371,
+            "8. Putting on with the right hand": 15.051851851851852,
+            "9. Release from the right hand": 16.933333333333334
+        }
+    },
+    {
+        "action": [
+            "Hand over from the left hand to the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                41
+            ],
+            [
+                42,
+                52
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14504-14556.mp4",
+        "start_times": {
+            "1. Hand over from the left hand to the right hand": 0.0,
+            "2. Putting on with the right hand": 0.5888888888888889,
+            "3. Release from the right hand": 1.1777777777777778
+        },
+        "completed_times": {
+            "1. Hand over from the left hand to the right hand": 0.5888888888888889,
+            "2. Putting on with the right hand": 1.1777777777777778,
+            "3. Release from the right hand": 1.7666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                29
+            ],
+            [
+                30,
+                37
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14557-14594.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.4222222222222222,
+            "3. Release from the right hand": 0.8444444444444444
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.4222222222222222,
+            "2. Holding with the right hand": 0.8444444444444444,
+            "3. Release from the right hand": 1.2666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                28
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14635-14663.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Release from the right hand": 0.48333333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.48333333333333334,
+            "2. Release from the right hand": 0.9666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                27
+            ],
+            [
+                28,
+                33
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14666-14699.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.37777777777777777,
+            "3. Release from the right hand": 0.7555555555555555
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.37777777777777777,
+            "2. Holding with the right hand": 0.7555555555555555,
+            "3. Release from the right hand": 1.1333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                4
+            ],
+            [
+                5,
+                27
+            ],
+            [
+                28,
+                38
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14737-14775.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Putting on with the right hand": 0.43333333333333335,
+            "3. Release from the right hand": 0.8666666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.43333333333333335,
+            "2. Putting on with the right hand": 0.8666666666666667,
+            "3. Release from the right hand": 1.3
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                29
+            ],
+            [
+                30,
+                43
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14853-14896.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.4888888888888889,
+            "3. Release from the right hand": 0.9777777777777777
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.4888888888888889,
+            "2. Picking with the right hand": 0.9777777777777777,
+            "3. Release from the right hand": 1.4666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                39
+            ],
+            [
+                40,
+                296
+            ],
+            [
+                297,
+                329
+            ],
+            [
+                330,
+                346
+            ],
+            [
+                347,
+                347
+            ],
+            [
+                348,
+                360
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_14901-15261.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.719047619047619,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 3.438095238095238,
+            "4. Striking something with the right hand or an object held in the right hand.": 5.157142857142857,
+            "5. Bringing with the right hand": 6.876190476190476,
+            "6. Putting on with the right hand": 8.595238095238095,
+            "7. Release from the right hand": 10.314285714285713
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.719047619047619,
+            "2. Picking with the right hand": 3.438095238095238,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 5.157142857142857,
+            "4. Striking something with the right hand or an object held in the right hand.": 6.876190476190476,
+            "5. Bringing with the right hand": 8.595238095238095,
+            "6. Putting on with the right hand": 10.314285714285713,
+            "7. Release from the right hand": 12.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                7
+            ],
+            [
+                8,
+                28
+            ],
+            [
+                29,
+                39
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15262-15301.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Putting on with the right hand": 0.4444444444444444,
+            "3. Release from the right hand": 0.8888888888888888
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.4444444444444444,
+            "2. Putting on with the right hand": 0.8888888888888888,
+            "3. Release from the right hand": 1.3333333333333333
+        }
+    },
+    {
+        "action": [
+            "Hand over from the left hand to the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                36
+            ],
+            [
+                37,
+                44
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15395-15439.mp4",
+        "start_times": {
+            "1. Hand over from the left hand to the right hand": 0.0,
+            "2. Putting on with the right hand": 0.5,
+            "3. Release from the right hand": 1.0
+        },
+        "completed_times": {
+            "1. Hand over from the left hand to the right hand": 0.5,
+            "2. Putting on with the right hand": 1.0,
+            "3. Release from the right hand": 1.5
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Pressing a button with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                9
+            ],
+            [
+                10,
+                41
+            ],
+            [
+                42,
+                49
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15440-15489.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Pressing a button with the right hand": 0.5555555555555556,
+            "3. Release from the right hand": 1.1111111111111112
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5555555555555556,
+            "2. Pressing a button with the right hand": 1.1111111111111112,
+            "3. Release from the right hand": 1.6666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                18
+            ],
+            [
+                19,
+                33
+            ],
+            [
+                34,
+                51
+            ],
+            [
+                52,
+                59
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15574-15633.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5,
+            "3. Bringing with the right hand": 1.0,
+            "4. Release from the right hand": 1.5
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5,
+            "2. Picking with the right hand": 1.0,
+            "3. Bringing with the right hand": 1.5,
+            "4. Release from the right hand": 2.0
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                4
+            ],
+            [
+                5,
+                9
+            ],
+            [
+                10,
+                17
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15634-15651.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.19999999999999998,
+            "3. Release from the right hand": 0.39999999999999997
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.19999999999999998,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.39999999999999997,
+            "3. Release from the right hand": 0.6
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                77
+            ],
+            [
+                78,
+                90
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15652-15742.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 1.011111111111111,
+            "3. Release from the right hand": 2.022222222222222
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.011111111111111,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 2.022222222222222,
+            "3. Release from the right hand": 3.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                4
+            ],
+            [
+                5,
+                24
+            ],
+            [
+                25,
+                57
+            ],
+            [
+                58,
+                69
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15743-15812.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5833333333333334,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 1.1666666666666667,
+            "4. Release from the right hand": 1.75
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5833333333333334,
+            "2. Picking with the right hand": 1.1666666666666667,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 1.75,
+            "4. Release from the right hand": 2.3333333333333335
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                38
+            ],
+            [
+                39,
+                40
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15813-15853.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 0.45555555555555555,
+            "3. Release from the right hand": 0.9111111111111111
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.45555555555555555,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 0.9111111111111111,
+            "3. Release from the right hand": 1.3666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                18
+            ],
+            [
+                19,
+                25
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_1_15854-15879.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.2888888888888889,
+            "3. Release from the right hand": 0.5777777777777778
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.2888888888888889,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.5777777777777778,
+            "3. Release from the right hand": 0.8666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                2
+            ],
+            [
+                3,
+                7
+            ],
+            [
+                8,
+                15
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_2_14670-14685.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.17777777777777778,
+            "3. Release from the right hand": 0.35555555555555557
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.17777777777777778,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.35555555555555557,
+            "3. Release from the right hand": 0.5333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                4
+            ],
+            [
+                5,
+                19
+            ],
+            [
+                20,
+                164
+            ],
+            [
+                165,
+                175
+            ],
+            [
+                176,
+                186
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_2_15622-15808.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 1.2466666666666666,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 2.493333333333333,
+            "4. Putting on with the right hand": 3.7399999999999998,
+            "5. Release from the right hand": 4.986666666666666
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.2466666666666666,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 2.493333333333333,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 3.7399999999999998,
+            "4. Putting on with the right hand": 4.986666666666666,
+            "5. Release from the right hand": 6.2333333333333325
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                15
+            ],
+            [
+                16,
+                25
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_2_15809-15834.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.2888888888888889,
+            "3. Release from the right hand": 0.5777777777777778
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.2888888888888889,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.5777777777777778,
+            "3. Release from the right hand": 0.8666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                15
+            ],
+            [
+                16,
+                21
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_2_15972-15993.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.24444444444444444,
+            "3. Release from the right hand": 0.4888888888888889
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.24444444444444444,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.4888888888888889,
+            "3. Release from the right hand": 0.7333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Bringing with the right hand",
+            "Linear motion with the right hand until it cannot be moved",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                66
+            ],
+            [
+                67,
+                76
+            ],
+            [
+                77,
+                88
+            ],
+            [
+                89,
+                99
+            ]
+        ],
+        "video_path": "original_videos\\subject_3_o_gopro_seg_2_16025-16124.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Bringing with the right hand": 0.8333333333333334,
+            "3. Linear motion with the right hand until it cannot be moved": 1.6666666666666667,
+            "4. Release from the right hand": 2.5
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.8333333333333334,
+            "2. Bringing with the right hand": 1.6666666666666667,
+            "3. Linear motion with the right hand until it cannot be moved": 2.5,
+            "4. Release from the right hand": 3.3333333333333335
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                5
+            ],
+            [
+                6,
+                16
+            ],
+            [
+                17,
+                26
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_1_7675-7701.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.3,
+            "3. Release from the right hand": 0.6
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.3,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.6,
+            "3. Release from the right hand": 0.8999999999999999
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                41
+            ],
+            [
+                42,
+                51
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_16670-16721.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.5777777777777778,
+            "3. Release from the right hand": 1.1555555555555557
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5777777777777778,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.1555555555555557,
+            "3. Release from the right hand": 1.7333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Linear motion with the right hand until it cannot be moved",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                152
+            ],
+            [
+                153,
+                189
+            ],
+            [
+                190,
+                211
+            ],
+            [
+                212,
+                234
+            ],
+            [
+                235,
+                247
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17147-17394.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 1.377777777777778,
+            "3. Striking something with the right hand or an object held in the right hand.": 2.755555555555556,
+            "4. Bringing with the right hand": 4.133333333333334,
+            "5. Linear motion with the right hand until it cannot be moved": 5.511111111111112,
+            "6. Release from the right hand": 6.88888888888889
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.377777777777778,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a linear manner.": 2.755555555555556,
+            "3. Striking something with the right hand or an object held in the right hand.": 4.133333333333334,
+            "4. Bringing with the right hand": 5.511111111111112,
+            "5. Linear motion with the right hand until it cannot be moved": 6.88888888888889,
+            "6. Release from the right hand": 8.266666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                48
+            ],
+            [
+                49,
+                60
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17398-17458.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.6777777777777777,
+            "3. Release from the right hand": 1.3555555555555554
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6777777777777777,
+            "2. Picking with the right hand": 1.3555555555555554,
+            "3. Release from the right hand": 2.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Holding with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Holding with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                62
+            ],
+            [
+                63,
+                107
+            ],
+            [
+                108,
+                165
+            ],
+            [
+                166,
+                205
+            ],
+            [
+                206,
+                216
+            ],
+            [
+                217,
+                224
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17460-17684.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 1.0714285714285714,
+            "3. Holding with the right hand": 2.142857142857143,
+            "4. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 3.2142857142857144,
+            "5. Holding with the right hand": 4.285714285714286,
+            "6. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 5.357142857142857,
+            "7. Release from the right hand": 6.428571428571429
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.0714285714285714,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 2.142857142857143,
+            "3. Holding with the right hand": 3.2142857142857144,
+            "4. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 4.285714285714286,
+            "5. Holding with the right hand": 5.357142857142857,
+            "6. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 6.428571428571429,
+            "7. Release from the right hand": 7.5
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                19
+            ],
+            [
+                20,
+                22
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17722-17744.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.2555555555555556,
+            "3. Release from the right hand": 0.5111111111111112
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.2555555555555556,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.5111111111111112,
+            "3. Release from the right hand": 0.7666666666666668
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Moving an object held in the right hand in and out of a narrow space.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                9
+            ],
+            [
+                10,
+                26
+            ],
+            [
+                27,
+                111
+            ],
+            [
+                112,
+                126
+            ],
+            [
+                127,
+                136
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17745-17881.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Striking something with the right hand or an object held in the right hand.": 0.9133333333333333,
+            "3. Bringing with the right hand": 1.8266666666666667,
+            "4. Moving an object held in the right hand in and out of a narrow space.": 2.74,
+            "5. Release from the right hand": 3.6533333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.9133333333333333,
+            "2. Striking something with the right hand or an object held in the right hand.": 1.8266666666666667,
+            "3. Bringing with the right hand": 2.74,
+            "4. Moving an object held in the right hand in and out of a narrow space.": 3.6533333333333333,
+            "5. Release from the right hand": 4.566666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                15
+            ],
+            [
+                16,
+                34
+            ],
+            [
+                35,
+                44
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_17955-17999.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.5,
+            "3. Release from the right hand": 1.0
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.0,
+            "3. Release from the right hand": 1.5
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Cracking an egg with the right hand",
+            "Bringing with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                148
+            ],
+            [
+                149,
+                196
+            ],
+            [
+                197,
+                206
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_7354-7560.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Cracking an egg with the right hand": 1.725,
+            "3. Bringing with the right hand": 3.45,
+            "4. Release from the right hand": 5.175000000000001
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.725,
+            "2. Cracking an egg with the right hand": 3.45,
+            "3. Bringing with the right hand": 5.175000000000001,
+            "4. Release from the right hand": 6.9
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Bringing with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Cracking an egg with the right hand",
+            "Holding with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                14
+            ],
+            [
+                15,
+                27
+            ],
+            [
+                28,
+                112
+            ],
+            [
+                113,
+                160
+            ],
+            [
+                161,
+                206
+            ],
+            [
+                207,
+                278
+            ],
+            [
+                279,
+                562
+            ],
+            [
+                563,
+                633
+            ],
+            [
+                634,
+                645
+            ],
+            [
+                646,
+                671
+            ],
+            [
+                672,
+                681
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_8051-8732.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 2.066666666666667,
+            "3. Holding with the right hand": 4.133333333333334,
+            "4. Bringing with the right hand": 6.200000000000001,
+            "5. Striking something with the right hand or an object held in the right hand.": 8.266666666666667,
+            "6. Cracking an egg with the right hand": 10.333333333333334,
+            "7. Holding with the right hand": 12.400000000000002,
+            "8. Striking something with the right hand or an object held in the right hand.": 14.466666666666669,
+            "9. Bringing with the right hand": 16.533333333333335,
+            "10. Putting on with the right hand": 18.6,
+            "11. Release from the right hand": 20.666666666666668
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 2.066666666666667,
+            "2. Picking with the right hand": 4.133333333333334,
+            "3. Holding with the right hand": 6.200000000000001,
+            "4. Bringing with the right hand": 8.266666666666667,
+            "5. Striking something with the right hand or an object held in the right hand.": 10.333333333333334,
+            "6. Cracking an egg with the right hand": 12.400000000000002,
+            "7. Holding with the right hand": 14.466666666666669,
+            "8. Striking something with the right hand or an object held in the right hand.": 16.533333333333335,
+            "9. Bringing with the right hand": 18.6,
+            "10. Putting on with the right hand": 20.666666666666668,
+            "11. Release from the right hand": 22.733333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Cracking an egg with the right hand",
+            "Bringing with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                110
+            ],
+            [
+                111,
+                134
+            ],
+            [
+                135,
+                145
+            ]
+        ],
+        "video_path": "original_videos\\subject_4_gopro_seg_2_8736-8881.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Cracking an egg with the right hand": 1.2166666666666666,
+            "3. Bringing with the right hand": 2.433333333333333,
+            "4. Release from the right hand": 3.6499999999999995
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.2166666666666666,
+            "2. Cracking an egg with the right hand": 2.433333333333333,
+            "3. Bringing with the right hand": 3.6499999999999995,
+            "4. Release from the right hand": 4.866666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Moving an object held in the right hand in and out of a narrow space.",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                109
+            ],
+            [
+                110,
+                130
+            ],
+            [
+                131,
+                184
+            ],
+            [
+                185,
+                198
+            ],
+            [
+                199,
+                209
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_1_7243-7452.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Moving an object held in the right hand in and out of a narrow space.": 1.4,
+            "3. Bringing with the right hand": 2.8,
+            "4. Putting on with the right hand": 4.199999999999999,
+            "5. Release from the right hand": 5.6
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.4,
+            "2. Moving an object held in the right hand in and out of a narrow space.": 2.8,
+            "3. Bringing with the right hand": 4.199999999999999,
+            "4. Putting on with the right hand": 5.6,
+            "5. Release from the right hand": 7.0
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Pouring with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                33
+            ],
+            [
+                34,
+                75
+            ],
+            [
+                76,
+                220
+            ],
+            [
+                221,
+                279
+            ],
+            [
+                280,
+                305
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_14524-14829.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 2.04,
+            "3. Pouring with the right hand": 4.08,
+            "4. Putting on with the right hand": 6.12,
+            "5. Release from the right hand": 8.16
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 2.04,
+            "2. Picking with the right hand": 4.08,
+            "3. Pouring with the right hand": 6.12,
+            "4. Putting on with the right hand": 8.16,
+            "5. Release from the right hand": 10.2
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                32
+            ],
+            [
+                33,
+                328
+            ],
+            [
+                329,
+                351
+            ],
+            [
+                352,
+                362
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_14832-15194.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Bringing with the right hand": 3.025,
+            "3. Putting on with the right hand": 6.05,
+            "4. Release from the right hand": 9.075
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 3.025,
+            "2. Bringing with the right hand": 6.05,
+            "3. Putting on with the right hand": 9.075,
+            "4. Release from the right hand": 12.1
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Bringing with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                13
+            ],
+            [
+                14,
+                26
+            ],
+            [
+                27,
+                41
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_2333-2374.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Bringing with the right hand": 0.4666666666666666,
+            "3. Release from the right hand": 0.9333333333333332
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.4666666666666666,
+            "2. Bringing with the right hand": 0.9333333333333332,
+            "3. Release from the right hand": 1.4
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                54
+            ],
+            [
+                55,
+                66
+            ],
+            [
+                67,
+                80
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_2634-2714.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Striking something with the right hand or an object held in the right hand.": 0.675,
+            "3. Putting on with the right hand": 1.35,
+            "4. Release from the right hand": 2.0250000000000004
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.675,
+            "2. Striking something with the right hand or an object held in the right hand.": 1.35,
+            "3. Putting on with the right hand": 2.0250000000000004,
+            "4. Release from the right hand": 2.7
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                36
+            ],
+            [
+                37,
+                55
+            ],
+            [
+                56,
+                64
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_2744-2808.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5416666666666666,
+            "3. Putting on with the right hand": 1.0833333333333333,
+            "4. Release from the right hand": 1.625
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5416666666666666,
+            "2. Picking with the right hand": 1.0833333333333333,
+            "3. Putting on with the right hand": 1.625,
+            "4. Release from the right hand": 2.1666666666666665
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                51
+            ],
+            [
+                52,
+                63
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_2809-2872.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.7111111111111111,
+            "3. Release from the right hand": 1.4222222222222223
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7111111111111111,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.4222222222222223,
+            "3. Release from the right hand": 2.1333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                61
+            ],
+            [
+                62,
+                72
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_2873-2945.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 0.811111111111111,
+            "3. Release from the right hand": 1.622222222222222
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.811111111111111,
+            "2. Holding with the right hand": 1.622222222222222,
+            "3. Release from the right hand": 2.433333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                29
+            ],
+            [
+                30,
+                42
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_3091-3133.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Striking something with the right hand or an object held in the right hand.": 0.4777777777777778,
+            "3. Release from the right hand": 0.9555555555555556
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.4777777777777778,
+            "2. Striking something with the right hand or an object held in the right hand.": 0.9555555555555556,
+            "3. Release from the right hand": 1.4333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                41
+            ],
+            [
+                42,
+                152
+            ],
+            [
+                153,
+                163
+            ],
+            [
+                164,
+                175
+            ]
+        ],
+        "video_path": "original_videos\\subject_5_gopro_seg_2_3400-3575.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.1733333333333333,
+            "3. Bringing with the right hand": 2.3466666666666667,
+            "4. Putting on with the right hand": 3.52,
+            "5. Release from the right hand": 4.693333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1733333333333333,
+            "2. Picking with the right hand": 2.3466666666666667,
+            "3. Bringing with the right hand": 3.52,
+            "4. Putting on with the right hand": 4.693333333333333,
+            "5. Release from the right hand": 5.866666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                52
+            ],
+            [
+                53,
+                70
+            ],
+            [
+                71,
+                85
+            ],
+            [
+                86,
+                106
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_108-214.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.7133333333333334,
+            "3. Bringing with the right hand": 1.4266666666666667,
+            "4. Putting on with the right hand": 2.14,
+            "5. Release from the right hand": 2.8533333333333335
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7133333333333334,
+            "2. Picking with the right hand": 1.4266666666666667,
+            "3. Bringing with the right hand": 2.14,
+            "4. Putting on with the right hand": 2.8533333333333335,
+            "5. Release from the right hand": 3.566666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                28
+            ],
+            [
+                29,
+                56
+            ],
+            [
+                57,
+                67
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_216-283.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5666666666666667,
+            "3. Bringing with the right hand": 1.1333333333333333,
+            "4. Release from the right hand": 1.7
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5666666666666667,
+            "2. Picking with the right hand": 1.1333333333333333,
+            "3. Bringing with the right hand": 1.7,
+            "4. Release from the right hand": 2.2666666666666666
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Widening a bag with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                6
+            ],
+            [
+                7,
+                28
+            ],
+            [
+                29,
+                34
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_818-852.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Widening a bag with the right hand": 0.3888888888888889,
+            "3. Release from the right hand": 0.7777777777777778
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.3888888888888889,
+            "2. Widening a bag with the right hand": 0.7777777777777778,
+            "3. Release from the right hand": 1.1666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                35
+            ],
+            [
+                36,
+                75
+            ],
+            [
+                76,
+                115
+            ],
+            [
+                116,
+                148
+            ],
+            [
+                149,
+                163
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_1230-1393.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.0933333333333333,
+            "3. Bringing with the right hand": 2.1866666666666665,
+            "4. Putting on with the right hand": 3.28,
+            "5. Release from the right hand": 4.373333333333333
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.0933333333333333,
+            "2. Picking with the right hand": 2.1866666666666665,
+            "3. Bringing with the right hand": 3.28,
+            "4. Putting on with the right hand": 4.373333333333333,
+            "5. Release from the right hand": 5.466666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Holding with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                22
+            ],
+            [
+                23,
+                89
+            ],
+            [
+                90,
+                101
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_11201-11302.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Holding with the right hand": 1.1333333333333333,
+            "3. Release from the right hand": 2.2666666666666666
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.1333333333333333,
+            "2. Holding with the right hand": 2.2666666666666666,
+            "3. Release from the right hand": 3.4
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                18
+            ],
+            [
+                19,
+                63
+            ],
+            [
+                64,
+                71
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_11303-11374.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Putting on with the right hand": 0.7999999999999999,
+            "3. Release from the right hand": 1.5999999999999999
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.7999999999999999,
+            "2. Putting on with the right hand": 1.5999999999999999,
+            "3. Release from the right hand": 2.4
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                20
+            ],
+            [
+                21,
+                41
+            ],
+            [
+                42,
+                53
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_11853-11906.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.6,
+            "3. Release from the right hand": 1.2
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.2,
+            "3. Release from the right hand": 1.7999999999999998
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                14
+            ],
+            [
+                15,
+                21
+            ],
+            [
+                22,
+                32
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_12107-12139.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.3666666666666667,
+            "3. Release from the right hand": 0.7333333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.3666666666666667,
+            "2. Rotary motion with the right hand until it cannot be rotated": 0.7333333333333334,
+            "3. Release from the right hand": 1.1
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                8
+            ],
+            [
+                9,
+                46
+            ],
+            [
+                47,
+                56
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_1_12471-12527.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.6333333333333333,
+            "3. Release from the right hand": 1.2666666666666666
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6333333333333333,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.2666666666666666,
+            "3. Release from the right hand": 1.9
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Widening a bag with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                29
+            ],
+            [
+                30,
+                40
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_2_3665-3705.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Widening a bag with the right hand": 0.45555555555555555,
+            "3. Release from the right hand": 0.9111111111111111
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.45555555555555555,
+            "2. Widening a bag with the right hand": 0.9111111111111111,
+            "3. Release from the right hand": 1.3666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                99
+            ],
+            [
+                100,
+                141
+            ],
+            [
+                142,
+                150
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_2_3793-3943.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.6777777777777778,
+            "3. Release from the right hand": 3.3555555555555556
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.6777777777777778,
+            "2. Starting rotary motion with the right hand while it is restrained.": 3.3555555555555556,
+            "3. Release from the right hand": 5.033333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                59
+            ],
+            [
+                60,
+                71
+            ],
+            [
+                72,
+                94
+            ],
+            [
+                95,
+                104
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_2_4258-4362.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.875,
+            "3. Putting on with the right hand": 1.75,
+            "4. Release from the right hand": 2.625
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.875,
+            "2. Picking with the right hand": 1.75,
+            "3. Putting on with the right hand": 2.625,
+            "4. Release from the right hand": 3.5
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                33
+            ],
+            [
+                34,
+                414
+            ],
+            [
+                415,
+                451
+            ],
+            [
+                452,
+                462
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_2_4367-4829.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 3.086666666666667,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 6.173333333333334,
+            "4. Putting on with the right hand": 9.260000000000002,
+            "5. Release from the right hand": 12.346666666666668
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 3.086666666666667,
+            "2. Picking with the right hand": 6.173333333333334,
+            "3. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 9.260000000000002,
+            "4. Putting on with the right hand": 12.346666666666668,
+            "5. Release from the right hand": 15.433333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Holding with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Pouring with the right hand",
+            "Holding with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                19
+            ],
+            [
+                20,
+                55
+            ],
+            [
+                56,
+                81
+            ],
+            [
+                82,
+                130
+            ],
+            [
+                131,
+                140
+            ],
+            [
+                141,
+                164
+            ],
+            [
+                165,
+                206
+            ],
+            [
+                207,
+                234
+            ],
+            [
+                235,
+                246
+            ]
+        ],
+        "video_path": "original_videos\\subject_6_gopro_seg_2_4834-5080.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.9148148148148147,
+            "3. Holding with the right hand": 1.8296296296296295,
+            "4. Pouring with the right hand": 2.7444444444444445,
+            "5. Holding with the right hand": 3.659259259259259,
+            "6. Pouring with the right hand": 4.5740740740740735,
+            "7. Holding with the right hand": 5.488888888888889,
+            "8. Putting on with the right hand": 6.4037037037037035,
+            "9. Release from the right hand": 7.318518518518518
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.9148148148148147,
+            "2. Picking with the right hand": 1.8296296296296295,
+            "3. Holding with the right hand": 2.7444444444444445,
+            "4. Pouring with the right hand": 3.659259259259259,
+            "5. Holding with the right hand": 4.5740740740740735,
+            "6. Pouring with the right hand": 5.488888888888889,
+            "7. Holding with the right hand": 6.4037037037037035,
+            "8. Putting on with the right hand": 7.318518518518518,
+            "9. Release from the right hand": 8.233333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                24
+            ],
+            [
+                25,
+                51
+            ],
+            [
+                52,
+                248
+            ],
+            [
+                249,
+                266
+            ],
+            [
+                267,
+                279
+            ]
+        ],
+        "video_path": "original_videos\\subject_7_gopro_seg_1_16498-16777.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.8666666666666667,
+            "3. Bringing with the right hand": 3.7333333333333334,
+            "4. Putting on with the right hand": 5.6,
+            "5. Release from the right hand": 7.466666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.8666666666666667,
+            "2. Picking with the right hand": 3.7333333333333334,
+            "3. Bringing with the right hand": 5.6,
+            "4. Putting on with the right hand": 7.466666666666667,
+            "5. Release from the right hand": 9.333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                62
+            ],
+            [
+                63,
+                284
+            ],
+            [
+                285,
+                287
+            ]
+        ],
+        "video_path": "original_videos\\subject_7_gopro_seg_1_17070-17357.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Rotary motion with the right hand until it cannot be rotated": 3.1999999999999997,
+            "3. Release from the right hand": 6.3999999999999995
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 3.1999999999999997,
+            "2. Rotary motion with the right hand until it cannot be rotated": 6.3999999999999995,
+            "3. Release from the right hand": 9.6
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Starting rotary motion with the right hand while it is restrained.",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                36
+            ],
+            [
+                37,
+                49
+            ]
+        ],
+        "video_path": "original_videos\\subject_7_gopro_seg_1_17625-17674.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Starting rotary motion with the right hand while it is restrained.": 0.5555555555555556,
+            "3. Release from the right hand": 1.1111111111111112
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5555555555555556,
+            "2. Starting rotary motion with the right hand while it is restrained.": 1.1111111111111112,
+            "3. Release from the right hand": 1.6666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                24
+            ],
+            [
+                25,
+                36
+            ]
+        ],
+        "video_path": "original_videos\\subject_7_gopro_seg_2_12265-12301.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.41111111111111115,
+            "3. Release from the right hand": 0.8222222222222223
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.41111111111111115,
+            "2. Picking with the right hand": 0.8222222222222223,
+            "3. Release from the right hand": 1.2333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Cracking an egg with the right hand",
+            "Pouring with the right hand",
+            "Striking something with the right hand or an object held in the right hand.",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                50
+            ],
+            [
+                51,
+                153
+            ],
+            [
+                154,
+                204
+            ],
+            [
+                205,
+                252
+            ],
+            [
+                253,
+                268
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_1_3685-3953.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Cracking an egg with the right hand": 1.4944444444444445,
+            "3. Pouring with the right hand": 2.988888888888889,
+            "4. Striking something with the right hand or an object held in the right hand.": 4.483333333333333,
+            "5. Putting on with the right hand": 5.977777777777778,
+            "6. Release from the right hand": 7.472222222222222
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.4944444444444445,
+            "2. Cracking an egg with the right hand": 2.988888888888889,
+            "3. Pouring with the right hand": 4.483333333333333,
+            "4. Striking something with the right hand or an object held in the right hand.": 5.977777777777778,
+            "5. Putting on with the right hand": 7.472222222222222,
+            "6. Release from the right hand": 8.966666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                17
+            ],
+            [
+                18,
+                41
+            ],
+            [
+                42,
+                60
+            ],
+            [
+                61,
+                69
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_1_5019-5088.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.5833333333333334,
+            "3. Putting on with the right hand": 1.1666666666666667,
+            "4. Release from the right hand": 1.75
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.5833333333333334,
+            "2. Picking with the right hand": 1.1666666666666667,
+            "3. Putting on with the right hand": 1.75,
+            "4. Release from the right hand": 2.3333333333333335
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                29
+            ],
+            [
+                30,
+                84
+            ],
+            [
+                85,
+                95
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_2_9473-9568.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.8,
+            "3. Putting on with the right hand": 1.6,
+            "4. Release from the right hand": 2.4000000000000004
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.8,
+            "2. Picking with the right hand": 1.6,
+            "3. Putting on with the right hand": 2.4000000000000004,
+            "4. Release from the right hand": 3.2
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Putting on with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                22
+            ],
+            [
+                23,
+                45
+            ],
+            [
+                46,
+                149
+            ],
+            [
+                150,
+                159
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_2_9577-9736.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.3333333333333333,
+            "3. Putting on with the right hand": 2.6666666666666665,
+            "4. Release from the right hand": 4.0
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.3333333333333333,
+            "2. Picking with the right hand": 2.6666666666666665,
+            "3. Putting on with the right hand": 4.0,
+            "4. Release from the right hand": 5.333333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                16
+            ],
+            [
+                17,
+                29
+            ],
+            [
+                30,
+                40
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_2_10056-10096.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.45555555555555555,
+            "3. Release from the right hand": 0.9111111111111111
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.45555555555555555,
+            "2. Picking with the right hand": 0.9111111111111111,
+            "3. Release from the right hand": 1.3666666666666667
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                29
+            ],
+            [
+                30,
+                43
+            ],
+            [
+                44,
+                54
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_2_10097-10151.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 0.611111111111111,
+            "3. Release from the right hand": 1.222222222222222
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.611111111111111,
+            "2. Picking with the right hand": 1.222222222222222,
+            "3. Release from the right hand": 1.833333333333333
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.",
+            "Picking with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                10
+            ],
+            [
+                11,
+                397
+            ],
+            [
+                398,
+                431
+            ],
+            [
+                432,
+                458
+            ]
+        ],
+        "video_path": "original_videos\\subject_8_gopro_seg_2_10248-10706.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 3.825,
+            "3. Picking with the right hand": 7.65,
+            "4. Release from the right hand": 11.475000000000001
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 3.825,
+            "2. Tracing the surface of something with the right hand or an object held in the right hand in a planar manner.": 7.65,
+            "3. Picking with the right hand": 11.475000000000001,
+            "4. Release from the right hand": 15.3
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                26
+            ],
+            [
+                27,
+                36
+            ]
+        ],
+        "video_path": "original_videos\\subject_9_gopro_seg_1_1884-1920.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Release from the right hand": 0.6166666666666667
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.6166666666666667,
+            "2. Release from the right hand": 1.2333333333333334
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Picking with the right hand",
+            "Bringing with the right hand",
+            "Pouring with the right hand",
+            "Putting on with the right hand",
+            "Rotary motion with the right hand until it cannot be rotated",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                15
+            ],
+            [
+                16,
+                28
+            ],
+            [
+                29,
+                50
+            ],
+            [
+                51,
+                185
+            ],
+            [
+                186,
+                209
+            ],
+            [
+                210,
+                233
+            ],
+            [
+                234,
+                251
+            ]
+        ],
+        "video_path": "original_videos\\subject_9_gopro_seg_1_2324-2575.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Picking with the right hand": 1.2,
+            "3. Bringing with the right hand": 2.4,
+            "4. Pouring with the right hand": 3.5999999999999996,
+            "5. Putting on with the right hand": 4.8,
+            "6. Rotary motion with the right hand until it cannot be rotated": 6.0,
+            "7. Release from the right hand": 7.199999999999999
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 1.2,
+            "2. Picking with the right hand": 2.4,
+            "3. Bringing with the right hand": 3.5999999999999996,
+            "4. Pouring with the right hand": 4.8,
+            "5. Putting on with the right hand": 6.0,
+            "6. Rotary motion with the right hand until it cannot be rotated": 7.199999999999999,
+            "7. Release from the right hand": 8.4
+        }
+    },
+    {
+        "action": [
+            "Grasp with the right hand",
+            "Release from the right hand"
+        ],
+        "gt_time": [
+            [
+                0,
+                12
+            ],
+            [
+                13,
+                28
+            ]
+        ],
+        "video_path": "original_videos\\subject_9_gopro_seg_1_3469-3497.mp4",
+        "start_times": {
+            "1. Grasp with the right hand": 0.0,
+            "2. Release from the right hand": 0.48333333333333334
+        },
+        "completed_times": {
+            "1. Grasp with the right hand": 0.48333333333333334,
+            "2. Release from the right hand": 0.9666666666666667
+        }
+    }
+]
