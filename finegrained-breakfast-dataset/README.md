@@ -1,6 +1,6 @@
 # Fine-grained Breakfast dataset
 
-This repository provides resources for evaluating action label predictions on videos from the Fine-grained Breakfast dataset. It includes ground-truth annotations and an evaluation script.
+This folder provides resources for evaluating action label predictions on videos from the Fine-grained Breakfast dataset. It includes ground-truth annotations and an evaluation script.
 
 This dataset is provided as supplementary material for the paper:
 
